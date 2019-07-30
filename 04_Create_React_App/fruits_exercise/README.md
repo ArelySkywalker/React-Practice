@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-![demo](https://raw.githubusercontent.com/ArelySkywalker/React-Practice/blob/master/04_Create_React_App/fruits_exercise/demo.png)
+![demo](https://github.com/ArelySkywalker/React-Practice/blob/master/04_Create_React_App/fruits_exercise/demo.png)
 
 ## Available Scripts
 
